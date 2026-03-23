@@ -1,4 +1,5 @@
 # Amazon
 Amazon Homepage Clone built using HTML & CSS only.
 <br>
-Recreated the core layout including navbar, hero section, product cards, and footer.
+This is only a clone for educational purposes.
+Not affiliated with Amazon.
